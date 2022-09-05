@@ -12,14 +12,6 @@ body {
     margin-top: 3em;
 }
 
-/* section {
-    margin: auto 1em 1em 1em;
-} */
-
-/* article {
-    margin: auto 1em 1em 1em;
-} */
-
 .banner {
     background-color: #31A68A;
     padding: 10px;
@@ -96,28 +88,6 @@ img {
 
 }
 
-/* h1 {
-    font-size: 3em;
-    letter-spacing: .6em;
-    padding-top: 1em;
-    padding-bottom: 1em;
-} */
-
-/* h2 {
-    font-size: 1.5em;
-    padding-bottom: 1em;
-}
-
-h3 {
-    font-size: 1em;
-    padding-bottom: 1em;
-} */
-/* 
-main { 
-    display: grid;
-    grid-template-columns: 40% 60%;
-    margin-top: 3em;
-} */
 
 ul {
     list-style: none; /* Remove default bullets */
